@@ -20,4 +20,7 @@ To run the app locally, follow these steps:
 1. Clone the repo:
    ```bash
    git clone https://github.com/your-username/quotequest.git
-2. start with npm instal & start 
+2. start with npm instal 
+
+3. npm start
+   - to the project 
