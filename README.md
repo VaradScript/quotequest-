@@ -25,5 +25,5 @@ To run the app locally, follow these steps:
 3. npm start
    - to the project
 
-#Contributions
+## Contributions
 - fork the repo and any bugs or features pull 
