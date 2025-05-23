@@ -23,7 +23,7 @@ To run the app locally, follow these steps:
 2. start with npm instal 
 
 3. npm start
-   - to the project
+- to the project
 
 ## Contributions
 - fork the repo and any bugs or features pull 
